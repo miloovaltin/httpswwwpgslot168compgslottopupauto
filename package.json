@@ -1,16 +1,16 @@
 {
-"name": "httpswwwpgslot168compgslottopupauto",
-"theme": "https www pgslot168 com pgslot topup auto",
-"version": "7.2.10",
-"description": "https www pgslot168 com pgslot topup auto ทางเข้าหลักเว็บไซต์คาสิโนเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"https www pgslot168 com pgslot topup auto",
-"https www pgslot168 com pgslot topup auto เครดิตฟรี",
-"https www pgslot168 com pgslot topup auto ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/httpswwwpgslot168compgslottopupauto",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "httpswwwpgslot168compgslottopupauto",
+  "theme": "https www pgslot168 com pgslot topup auto",
+  "version": "7.3.0",
+  "description": "https www pgslot168 com pgslot topup auto ทางเข้าหลักเว็บไซต์คาสิโนเว็บตรง ระบบออโต้ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "https www pgslot168 com pgslot topup auto",
+    "https www pgslot168 com pgslot topup auto เครดิตฟรี",
+    "https www pgslot168 com pgslot topup auto ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/httpswwwpgslot168compgslottopupauto",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
